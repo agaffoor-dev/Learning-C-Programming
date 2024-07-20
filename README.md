@@ -4,7 +4,7 @@ Going through the C Programming Book by Dennis Ritchie and Brian Kernighan
 - - -
 
 - Running a c program from the terminal
-    - Can be done with gcc
+    - Can be compiled with gcc
 ```bash
 gcc hello.c
 ```
